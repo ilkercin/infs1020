@@ -1,8 +1,8 @@
 ## Welcome to INFS1020 ## 
 
-You can use the [editor on GitHub](https://github.com/ilkercin/infs1020/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can visit the [Sydney Uni INFS1020 website](https://www.sydney.edu.au/courses/units-of-study/2021/infs/infs1020.html) for more details about this course.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Digital technologies, such as social media, mobile devices, and data analytics, have changed the way we collect and present ideas, communicate, and work together. In this unit, students are introduced to various digital work environments and their implications for how work is done. Students learn about how employers recruit graduates online, what it is like to join and work in a modern, digital workplace, and the tensions that arise when traditional, structured workplaces are transformed through digital, flexible, and networked ways of working. Students engage in hands-on activities to acquire skills for how to present themselves effectively and professionally online (personal branding), how to communicate in digital channels in an organisational context (professional communication), how to effectively search for and work with digital information (data literacy), and how to digitally coordinate work in teams.
 
 ### Markdown
 
